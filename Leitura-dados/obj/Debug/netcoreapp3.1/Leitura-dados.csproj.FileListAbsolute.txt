@@ -1,0 +1,14 @@
+C:\Users\josia\source\repos\Leitura-dados\Leitura-dados\bin\Debug\netcoreapp3.1\Leitura-dados.exe
+C:\Users\josia\source\repos\Leitura-dados\Leitura-dados\bin\Debug\netcoreapp3.1\Leitura-dados.deps.json
+C:\Users\josia\source\repos\Leitura-dados\Leitura-dados\bin\Debug\netcoreapp3.1\Leitura-dados.runtimeconfig.json
+C:\Users\josia\source\repos\Leitura-dados\Leitura-dados\bin\Debug\netcoreapp3.1\Leitura-dados.runtimeconfig.dev.json
+C:\Users\josia\source\repos\Leitura-dados\Leitura-dados\bin\Debug\netcoreapp3.1\Leitura-dados.dll
+C:\Users\josia\source\repos\Leitura-dados\Leitura-dados\bin\Debug\netcoreapp3.1\Leitura-dados.pdb
+C:\Users\josia\source\repos\Leitura-dados\Leitura-dados\obj\Debug\netcoreapp3.1\Leitura-dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josia\source\repos\Leitura-dados\Leitura-dados\obj\Debug\netcoreapp3.1\Leitura-dados.AssemblyInfoInputs.cache
+C:\Users\josia\source\repos\Leitura-dados\Leitura-dados\obj\Debug\netcoreapp3.1\Leitura-dados.AssemblyInfo.cs
+C:\Users\josia\source\repos\Leitura-dados\Leitura-dados\obj\Debug\netcoreapp3.1\Leitura-dados.csproj.CoreCompileInputs.cache
+C:\Users\josia\source\repos\Leitura-dados\Leitura-dados\obj\Debug\netcoreapp3.1\Leitura-dados.dll
+C:\Users\josia\source\repos\Leitura-dados\Leitura-dados\obj\Debug\netcoreapp3.1\Leitura-dados.pdb
+C:\Users\josia\source\repos\Leitura-dados\Leitura-dados\obj\Debug\netcoreapp3.1\Leitura-dados.genruntimeconfig.cache
+C:\Users\josia\source\repos\Leitura-dados\Leitura-dados\obj\Debug\netcoreapp3.1\Leitura-dados.csproj.AssemblyReference.cache
